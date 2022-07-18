@@ -3,7 +3,7 @@ import './App.css';
 import ProjectList from './components/ProjectList'
 
 const App = () => {
-    const [projects, setProjects] = useState(
+    const projects = 
         [
             {
                 name:'Notes', 
