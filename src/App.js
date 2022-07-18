@@ -60,7 +60,7 @@ const App = () => {
                 githubLink:'https://github.com/praveenap98/temp-control-app', 
                 id:Math.random()*100
             }
-        ]);
+        ];
     return(
         <div className='main-container'> 
             <h2>My React Projects</h2>
