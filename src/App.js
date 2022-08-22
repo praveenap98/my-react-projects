@@ -6,8 +6,8 @@ const App = () => {
     const projects = 
         [
             {
-                name:'Budget Teacker', 
-                description:'User can track budget using this app. Context and Reducer hook is included to manage the state globally and creating custom logics for state',
+                name:'Budget Tracker', 
+                description:'User can track budget using this app. Context and Reducer hook is included to manage the state globally and creating custom logics for state.',
                 appLink:'https://budget-track-rapp.netlify.app/', 
                 githubLink:'https://github.com/praveenap98/budget-app', 
                 id:Math.random()*100
